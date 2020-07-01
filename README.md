@@ -39,15 +39,22 @@ Soutenance:
 La soutenance se déroule en 2 étapes :
 
   -> Dans un premier temps, votre évaluateur jouera le rôle d’un client qui vous aurait contacté et aimerait en apprendre un peu plus sur vous. 
+  
   -> Après une courte présentation de votre CV, vous lui expliquerez en quoi vos compétences en HTML et CSS peuvent être utilisées pour créer son entreprise. (15 minutes)
+  
   -> Ensuite, votre client, très intéressé par la façon dont vous avez utilisé Git et GitHub pour héberger votre projet, vous posera des questions sur ce sujet. (10 minutes)
 
 Compétences évaluées:
 
  -> Intégrer du contenu conformément à une maquette
+ 
  -> Préparer des éléments graphiques et textuels à intégrer à une page web
+ 
  -> Adapter l'affichage d'un site web à des écrans de petite taille
+ 
  -> Utiliser un système de gestion de versions pour le suivi du projet et son hébergement
+ 
  -> Définir la structure d'une page web à partir d'une maquette
+ 
  -> Assurer la conformité d'une page web aux standards HTML et CSS
 
